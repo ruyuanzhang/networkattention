@@ -1,4 +1,4 @@
-#A neural network model of attention
+# A neural network model of attention
 
 The objective is to use neural network to explain attention-induced change in neuronal RF size, position and gain.
 
